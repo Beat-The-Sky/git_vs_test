@@ -6,4 +6,4 @@ else:
 	y = x ** 2
 	
 print(y)
-input()
+input('Press Enter to continie...')
